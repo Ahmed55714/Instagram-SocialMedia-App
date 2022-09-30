@@ -2,7 +2,7 @@
 #A Responsive Instagram App Works on Android, iOS & Web.
 
 
- -Responsive Instagram UI
+ ##Responsive Instagram UI
  -Email & Password Authentication
  -Share Posts with Caption
  -Display Posts with Caption
